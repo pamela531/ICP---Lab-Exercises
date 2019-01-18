@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author B
+ *
+ */
+module LabAssignment {
+}
